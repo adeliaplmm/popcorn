@@ -1,0 +1,54 @@
+/* Install local font */
+@font-face {
+    font-family: 'Quicksand';
+    src: url('/assets/font/Quicksand-VariableFont_wght.ttf');
+}
+
+.navbar{
+    font-family: 'Quicksand';
+    font-weight: 700;
+}
+
+.hero-container{
+    background-color: brown;
+}
+
+.carousel{
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    scroll-behavior: smooth;
+}
+
+
+.banner img{
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+}
+
+.page-section-heading{
+    font-family: 'Quicksand';
+    font-weight: 600;
+}
+
+.movie-banner{
+    background-color: #E9E8E5;
+}
+
+.img-fluid{
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    max-height: 400px;
+}
+
+.footer-brand{
+    max-width: 30px;
+    height: auto;
+}
+
+.ms-3 img{
+    max-width: 25px;
+    height: auto;
+}
